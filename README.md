@@ -1,16 +1,41 @@
-# final_project_trial
+# 📈 Forex Trading Prediction App  
 
-A new Flutter project.
+Welcome to **Forex Trading Prediction App**, a powerful Flutter-based application designed to help traders analyze market trends and make informed trading decisions. The app leverages real-time Forex data, technical indicators, and AI-driven predictions to assist users in optimizing their trading strategies.  
 
-## Getting Started
+## 🚀 Features  
 
-This project is a starting point for a Flutter application.
+✅ **Live Forex Market Data** – Get real-time currency pair updates  
+✅ **AI-Powered Predictions** – Forecast market trends using ML models (if integrated)  
+✅ **Technical Analysis Tools** – Access indicators like RSI, MACD, Bollinger Bands, and more  
+✅ **News Feed Aggregation** – Stay updated with Forex-related news and trends  
+✅ **Custom Alerts & Notifications** – Get notified when specific market conditions are met  
+✅ **User Portfolio Tracking** – Monitor trades and performance over time  
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** – Cross-platform mobile app development  
+- **Dart** – Programming language  
+- **Provider/Bloc** – State management 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation  
+
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/anchirinaahhezekiah/final_project_trial.git
+   cd final_project_trial
+   ```  
+2. Install dependencies:  
+   ```sh
+   flutter pub get
+   ```  
+3. Run the app:  
+   ```sh
+   flutter run
+   ```  
+
+## 🤝 Contributing  
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.  
+
+ 
+
